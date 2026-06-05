@@ -1,0 +1,7 @@
+[package]
+name = "ternary-ecology"
+version = "0.1.0"
+edition = "2021"
+description = "Ecological dynamics in ternary — Lotka-Volterra, food webs, population cycles, and ecosystem stability"
+license = "MIT"
+[dependencies]
